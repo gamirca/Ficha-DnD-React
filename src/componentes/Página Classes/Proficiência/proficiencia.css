@@ -1,0 +1,51 @@
+.resumoClasse{
+      overflow: hidden;
+}
+#Bárbaro{
+      display: none;
+      overflow:auto
+}
+#Bardo{
+      display: none;
+      overflow:auto
+}
+#Bruxo{
+      display: none;
+      overflow:auto
+}
+#Clérigo{
+      display: none;
+      overflow:auto
+}
+#Druida{
+      display: none;
+      overflow:auto
+}
+#Feiticeiro{
+      display: none;
+      overflow:auto
+}
+#Guerreiro{
+      display: none;
+      overflow:auto
+}
+#Ladino{
+      display: none;
+      overflow:auto
+}
+#Mago{
+      display: none;
+      overflow:auto
+}
+#Monge{
+      display: none;
+      overflow:auto
+}
+#Paladino{
+      display: none;
+      overflow:auto
+}
+#Patrulheiro{
+      display: none;
+      overflow:auto
+}

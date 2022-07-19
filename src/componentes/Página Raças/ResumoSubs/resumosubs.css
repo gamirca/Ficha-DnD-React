@@ -1,0 +1,49 @@
+.subs{
+      overflow: hidden;
+      height: fit-content;
+}
+
+#AnãoMontanha{
+      height: 0px;
+      overflow: auto;
+}
+
+#AnãoColina{
+      height: 0px;
+      overflow: auto;
+}
+
+#AltoElfo{
+      height: 0px;
+      overflow: auto;
+}
+
+#ElfoFloresta{
+      height: 0px;
+      overflow: auto;
+}
+
+#ElfoNegro{
+      height: 0px;
+      overflow: auto;
+}
+
+#PésLeves{
+      height: 0px;
+      overflow: auto;
+}
+
+#Robusto{
+      height: 0px;
+      overflow: auto;
+}
+
+#GnomoFloresta{
+      height: 0px;
+      overflow: auto;
+}
+
+#GnomoRochas{
+      height: 0px;
+      overflow: auto;
+}

@@ -1,0 +1,39 @@
+.ResumoRaças{
+      overflow: hidden;
+}
+#Anão{
+      height: 0px;
+      overflow: auto;
+}
+#Elfo{
+      height: 0px;
+      overflow: auto;
+}
+#Halfling{
+      height: 0px;
+      overflow: auto;
+}
+#Humano{
+      height: 0px;
+      overflow: auto;
+}
+#Draconato{
+      height: 0px;
+      overflow: auto;
+}
+#Gnomo{
+      height: 0px;
+      overflow: auto;
+}
+#Meio-Elfo{
+      height: 0px;
+      overflow: auto;
+}
+#Meio-Orc{
+      height: 0px;
+      overflow: auto;
+}
+#Tiefling{
+      height: 0px;
+      overflow: auto;
+}
