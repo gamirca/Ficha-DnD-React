@@ -4,6 +4,8 @@ import './fichaClasses.css'
 import SelectClasses from '../SelectClasses'
 import ResumoClasses from '../ResumoClasses'
 import Proficiência from '../Proficiência'
+import BotaoClasses from '../BotãoClasses';
+import LocalClasses from '../LocalClasses';
 
 const FichaClasses = () => {
 
@@ -40,6 +42,22 @@ const FichaClasses = () => {
                               setprof2={(event) => setProficiencia2(event.target.value)}
                               setprof3={(event) => setProficiencia3(event.target.value)}
                               setprof4={(event) => setProficiencia4(event.target.value)}
+                        />
+
+                        <BotaoClasses
+                              classe={classe}
+                              proficiencia1={proficiencia1}
+                              proficiencia2={proficiencia2}
+                              proficiencia3={proficiencia3}
+                              proficiencia4={proficiencia4}
+                        />
+
+                        <LocalClasses
+                              classe={classe}
+                              proficiencia1={proficiencia1}
+                              proficiencia2={proficiencia2}
+                              proficiencia3={proficiencia3}
+                              proficiencia4={proficiencia4}
                         />
 
                   </form>

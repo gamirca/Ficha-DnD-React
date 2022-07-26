@@ -20,7 +20,7 @@ const BotãoRaças = (props) => {
       return (
 
             <button onClick={LocalRaças} id='botãoRaça'>
-                  {prossiga == 'Prosseguir para a escolha de classe' ? <Link to={'/FichaClasses'}>{prossiga}</Link> : prossiga}
+                  {prossiga === 'Prosseguir para a escolha de classe' ? <Link to={'/FichaClasses'}>{prossiga}</Link> : prossiga}
             </button>
 
       )
