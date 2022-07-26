@@ -2,6 +2,6 @@
 
 Projeto React em andamento.
 
-#Status
+# Status
 
 Trabalhando nas funcionalidades, ainda não alterei o CSS
