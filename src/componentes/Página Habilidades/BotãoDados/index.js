@@ -1,11 +1,11 @@
 import './BotãoDados.css'
-import RolagemDados from '../RolagemDados'
 
 const BotãoDados = (props) => {
 
-      <button onClick={RolagemDados}>
-            Role os Dados
-      </button>
+      <section>
+            <h1>ROLE DADOS</h1>
+
+      </section>
 }
 
 export default BotãoDados

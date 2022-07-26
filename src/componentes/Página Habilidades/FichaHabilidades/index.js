@@ -4,10 +4,17 @@ import BotãoDados from '../BotãoDados';
 
 const FichaHabilidades = () => {
 
+      const salvaHabilidade = (e) => {
+            e.preventDefault()
+      }
+
       return (
-            <section>
-                  <RolagemDados />
-                  <BotãoDados />
+            <section className='formulariohabilidades'>
+                  <form onSubmit={salvaHabilidade}>
+                        <BotãoDados />
+                        <RolagemDados />
+
+                  </form>
             </section>
       )
 }

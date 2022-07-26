@@ -13,6 +13,7 @@ const LocalClasses = (props) => {
             useEffect(() => {
                   localStorage.setItem('proficiencia1', JSON.stringify(props.proficiencia1))
             }, [props.proficiencia1]),
+
             useEffect(() => {
                   localStorage.setItem('proficiencia2', JSON.stringify(props.proficiencia2))
             }, [props.proficiencia2]),
