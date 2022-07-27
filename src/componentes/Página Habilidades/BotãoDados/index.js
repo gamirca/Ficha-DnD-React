@@ -1,11 +1,16 @@
+import RolagemDados from '../RolagemDados'
 import './BotãoDados.css'
 
 const BotãoDados = (props) => {
 
-      <section>
-            <h1>ROLE DADOS</h1>
+      return (
+            <section>
 
-      </section>
+                  <button onClick={RolagemDados} className='botão'>
+                        Role os dados
+                  </button>
+            </section>
+      )
 }
 
 export default BotãoDados
